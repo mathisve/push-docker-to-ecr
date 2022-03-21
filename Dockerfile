@@ -1,3 +1,4 @@
+# stolen from:
 # https://github.com/docker/labs/blob/master/beginner/static-site/Dockerfile
 
 FROM nginx
